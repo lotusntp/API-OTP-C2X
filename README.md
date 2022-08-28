@@ -3,4 +3,6 @@
 
 ## ตัวอย่างการใช้งาน
 เมื่อไม่ได้รับ OTP เป็นเวลา 1 นาที จะส่ง API ยกเลิกอัตโนมัติ
-![Image](https://res.cloudinary.com/dtxsiexns/image/upload/v1661679565/cancle2_svil1n.png)
+<div>
+  ![Image](https://res.cloudinary.com/dtxsiexns/image/upload/v1661679565/cancle2_svil1n.png)
+ </div>
