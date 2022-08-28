@@ -6,11 +6,15 @@
 <div>
   <img src="https://res.cloudinary.com/dtxsiexns/image/upload/v1661679565/cancle2_svil1n.png" alt=""/>
 </div>
+
 เมื่อได้รับ OTP จะส่ง เลข OTP ผ่าน API LINE Notify
+
 <div>
   <img src="https://res.cloudinary.com/dtxsiexns/image/upload/v1661679515/success_ty8zfo.png" alt=""/>
 </div>
+
 LINE Notify
+
 <div>
   <img src="https://res.cloudinary.com/dtxsiexns/image/upload/v1661679514/line_fzuybb.png" alt=""/>
 </div>
